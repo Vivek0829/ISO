@@ -1,0 +1,84 @@
+--------------------
+CASE NUMBER: 115
+--------------------
+State: [] City: []
+ Criminal Name: [u'Dyer', u'Daniel Kasprzak', u'Porter']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 115
+--------------------
+State: [] City: []
+ Criminal Name: [u'Dyer', u'Daniel Kasprzak', u'Porter']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 115
+--------------------
+State: [] City: []
+ Criminal Name: [u'Dyer', u'Daniel Kasprzak', u'Porter']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 115
+--------------------
+State: [] City: []
+ Criminal Name: [u'Dyer', u'Daniel Kasprzak', u'Porter']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 115
+--------------------
+State: [] City: []
+ Criminal Name: [u'Dyer', u'Daniel Kasprzak', u'Porter']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 118
+--------------------
+State: FL City: Delray Beach
+ Criminal Name: [u'Jill Burgess', u'James Quiggle']
+ Scheme: ['Health']
+--------------------
+CASE NUMBER: 140
+--------------------
+State: [] City: []
+ Criminal Name: [u'John Bauserman', u'Russell Shope', u'Kenneth Popow', u'Christopher Lyden', u'James Cullen', u'Brett Gilbert', u'Margaret Moffatt', u'Steven Rowe', u'Julie Hearthway']
+ Scheme: ['Auto']
+--------------------
+CASE NUMBER: 148
+--------------------
+State: MA City: Cambridge
+ Criminal Name: [u'Michael J. Sullivan', u'Lawrence', u'Mark', u'Leonard J. Degnan Jr.', u'Rafael E. Beamud', u'John J. Romero']
+ Scheme: ['Auto', 'Life', 'Business']
+--------------------
+CASE NUMBER: 152
+--------------------
+State: ND City: Wimbledon
+ Criminal Name: [u'Rodney Webb', u'Steven Huber', u'Hochhalter', u'Irvin Nodland']
+ Scheme: ['Business']
+--------------------
+CASE NUMBER: 152
+--------------------
+State: ND City: Wimbledon
+ Criminal Name: [u'Rodney Webb', u'Steven Huber', u'Hochhalter', u'Irvin Nodland']
+ Scheme: ['Business']
+--------------------
+CASE NUMBER: 152
+--------------------
+State: ND City: Wimbledon
+ Criminal Name: [u'Rodney Webb', u'Steven Huber', u'Hochhalter', u'Irvin Nodland']
+ Scheme: ['Business']
+--------------------
+CASE NUMBER: 1
+--------------------
+State: LA City: Monroe
+ Criminal Name: [u'John W. Oxendine']
+ Scheme: ['Life', 'Health']
+--------------------
+CASE NUMBER: 1
+--------------------
+State: LA City: Monroe
+ Criminal Name: [u'John W. Oxendine']
+ Scheme: ['Life', 'Health']
+--------------------
+CASE NUMBER: 56
+--------------------
+State: [] City: []
+ Criminal Name: [u'Gerald Pohida', u'Stuart A. Peim', u'Albert Cernadas Jr.', u'Daniel Fay inPohida', u'Wayne', u'Theodore J. Romankow', u'Eleanor R. Beaumont']
+ Scheme: ['Others']

@@ -12,7 +12,7 @@ Prerequisites:
 
 Procedure:
 Step 1: After installing all the packages run the tomcat server by double clicking on the "startup.bat" file
-	for windows and "startup.sh" for IOS and run it as "english.all.3class.distsim.crf". I have also attached bat file for 			reference.
+	for windows and "startup.sh" for IOS and run it as "english.all.3class.distsim.crf". I have also attached bat file for reference.
 
 Step 2:	Open the code from the source file "iso.py" from the attachment.
 
